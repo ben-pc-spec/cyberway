@@ -1,3 +1,3 @@
 # cyberway
 赛百威学习git的项目
-git 解决冲突  我是mian分支
+git 冲突解决了
